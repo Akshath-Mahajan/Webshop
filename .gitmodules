@@ -1,0 +1,6 @@
+[submodule "ws-backend"]
+	path = ws-backend
+	url = https://github.com/Akshath-Mahajan/ws-backend
+[submodule "ws-frontend"]
+	path = ws-frontend
+	url = https://github.com/Akshath-Mahajan/ws-frontend
